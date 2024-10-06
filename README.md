@@ -11,8 +11,6 @@ This is a simple repository to start using AWS services.
 
 * Initially using Ubuntu 24.04
 
-### Installing
-
 
 ### Executing program
 
